@@ -1,7 +1,7 @@
 # Text Decoder
 
 Is "А" (by its code point) a Latin alphabet, or a Greek Alpha?
-Is "ー" a Han character , a Bopomofo, or a Kana long-vowel sign?
+Is "ー" a Chinese letter, a Bopomofo, or a Kana long-vowel sign?
 
 In the age of Unicode, it has become harder to distinguish between those characters of different code points.
 Sometimes it doesn't matter, but sometimes it does, because we have to check if the character usage is correct, or because we want to ensure that a URL can be trusted.
